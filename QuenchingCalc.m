@@ -7,9 +7,9 @@
 % In this example, cooling of a silicon or glassy carbon plate in a
 % hydrogen:argon mixture flow in a tube is calculated.
 
-% The resulting plot shows two curved: (1) plate temperature (assuming this
+% The resulting plot shows two curves: (1) plate temperature (assuming this
 % is uniform across the plate), and (2) surface flow temperature (defined
-% as the average of the plate and gas temperature)
+% as the average of the plate and gas temperature).
 
 % Notes:
 % 1. Heat transfer rates through different mechanisms are added up
