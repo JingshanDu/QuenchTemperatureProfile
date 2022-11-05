@@ -6,6 +6,16 @@ In this example, cooling of a silicon or glassy carbon plate in a hydrogen:argon
 
 The resulting plot shows two curves: (1) plate temperature (assuming this is uniform across the plate), and (2) surface flow temperature (defined as the average of the plate and gas temperature).
 
+## Literature Reference
+
+This code was developed for and used in the following publication:
+
+Intermetallic Nanocrystal Discovery Through Modulation of Atom Stacking Hierarchy.  
+Jingshan S. Du, Vinayak P. Dravid, Chad A. Mirkin.  
+_ACS Nano_ **2022**, in press. [[DOI:10.1021/acsnano.2c08038](https://doi.org/10.1021/acsnano.2c08038)]
+
+Please cite the paper above if you use this code in a publication.
+
 ## Notes
 
 1. Heat transfer rates through different mechanisms are added up
