@@ -12,7 +12,7 @@ This code was developed for and used in the following publication:
 
 Intermetallic Nanocrystal Discovery Through Modulation of Atom Stacking Hierarchy.  
 Jingshan S. Du, Vinayak P. Dravid, Chad A. Mirkin.  
-_ACS Nano_ **2022**, in press. [[DOI:10.1021/acsnano.2c08038](https://doi.org/10.1021/acsnano.2c08038)]
+_ACS Nano_ **2022**, _16_ (12), 20796–20804. [[DOI:10.1021/acsnano.2c08038](https://doi.org/10.1021/acsnano.2c08038)]
 
 Please cite the paper above if you use this code in a publication.
 
